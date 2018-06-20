@@ -1,0 +1,6 @@
+myvenv
+__pycache__
+*.pyc
+staticfiles
+production_settings.py
+db.sqlite3
